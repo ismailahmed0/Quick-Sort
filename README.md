@@ -4,5 +4,6 @@ A Java program that implements a QuickSort algorithm. Implements functions that 
 
 Command Line Prompts:
 
-  javac Main.java
-  java Main 5 record.txt unsorted.txt sorted.txt
+javac Main.java
+  
+java Main 5 record.txt unsorted.txt sorted.txt
